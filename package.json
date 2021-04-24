@@ -1,0 +1,18 @@
+{
+  "name": "howtojs",
+  "version": "0.0.1",
+  "description": "How to JS",
+  "scripts": {
+    "start": "reload -b -p 3000"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "reload": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobbigmac/howtojs.git"
+  },
+  "author": "Bob Davies",
+  "license": "MIT"
+}
